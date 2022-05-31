@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         长安大学教务系统自动评教
-// @namespace    https://github.com/zys-chd/CHD__Auto_Judge_Educate
+// @namespace    https://github.com/zys-chd/CHD__Auto_Evaluate
 // @version      0.20
 // @description  简单的长安大学教务系统自动评教脚本
 // @author       zys
