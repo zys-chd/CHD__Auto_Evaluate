@@ -12,6 +12,8 @@
 this.$ = this.jQuery = jQuery.noConflict(true);
 
 (function () {
+    
+    // var confirm=function(){return 1}
     'use strict';
 
     // Your code here...
