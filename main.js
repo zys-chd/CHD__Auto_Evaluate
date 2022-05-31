@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         CHD__Auto_Judge_Educate
-// @namespace    https://github.com/zys-chd/CHD__Auto_Judge_Educate
+// @namespace    https://github.com/zys-chd/CHD__Auto_Judge_Evaluate
 // @version      0.1
 // @description  长安大学教务系统自动评教
 // @author       zys
